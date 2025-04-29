@@ -131,7 +131,7 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/9d598a23-463c-4dd9-89aa-6e597949ada3)
+![image](https://github.com/user-attachments/assets/145bb2cb-257a-4476-8e25-ac78e40ed4c6)
 
 
 
